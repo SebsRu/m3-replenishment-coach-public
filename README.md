@@ -2,7 +2,7 @@
 
 **Part of the Supply Chain AI Suite** | By Sebastián Rueda, Supply Chain AI Orchestrator
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://m3-replenishment-coach-public.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://m3-replenishment-coach-public-kjds9kfms4eg3lmj9ynsvw.streamlit.app)
 
 ---
 
@@ -38,7 +38,7 @@ This tool translates Module 2's diagnosis into **actionable procurement strategi
 
 ## 🚀 Live Demo
 
-### **👉 [Launch the App](https://m3-replenishment-coach-public.streamlit.app)**
+### **👉 [Launch the App](https://m3-replenishment-coach-public-kjds9kfms4eg3lmj9ynsvw.streamlit.app)**
 
 Try it now with **demo supply chain data** (Kellanova CPG portfolio) or **upload Module 2 diagnosis output**.
 
@@ -175,7 +175,7 @@ If no file is uploaded, the app runs with **demo Kellanova CPG data** (5 SKUs ac
 |--------|------|--------|------|
 | **M1** | Demand Planning — AI Forecast Comparator | ✅ **LIVE** | [Demo](https://m1-demand-forecast-public-fyjvowtsbgsa6yfovy82xk.streamlit.app) |
 | **M2** | Inventory Diagnosis & Coverage Analyzer | ✅ **LIVE** | [Demo](https://m2-inventory-diagnosis-public-emthenygqlck7srnw4dejt.streamlit.app) |
-| **M3** | Replenishment Coach — Safety Stock Calculator | ✅ **THIS** | [Demo](https://m3-replenishment-coach-public.streamlit.app) |
+| **M3** | Replenishment Coach — Safety Stock Calculator | ✅ **THIS** | [Demo](https://m3-replenishment-coach-public-kjds9kfms4eg3lmj9ynsvw.streamlit.app) |
 | **M4** | Procurement — OTIF Risk Tracker | 🔄 In Dev | — |
 | **M5** | Control Tower 360 — Executive Dashboard | 🔄 In Dev | — |
 
@@ -236,4 +236,4 @@ Code available under **NDA** for commercial use. Contact for licensing.
 
 ---
 
-**Ready to optimize your replenishment strategy?** 👉 [Launch the App](https://m3-replenishment-coach-public.streamlit.app)
+**Ready to optimize your replenishment strategy?** 👉 [Launch the App](https://m3-replenishment-coach-public-kjds9kfms4eg3lmj9ynsvw.streamlit.app)
